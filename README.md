@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Javascript and Python**
 
+- 🕖 I'll learn **C and C++** in the future
+
 - My first project [AOT Wiki (JSA01 end course project )](https://github.com/DinhPhongNe/JSA01-SPCK)
 
 - My second project [Aviation Wiki (JSI01 end course project ) )](https://github.com/DinhPhongNe/JSI01-SPCK)
