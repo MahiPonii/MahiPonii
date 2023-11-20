@@ -113,9 +113,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
-<h2 align="center">⚡ My contributes ⚡</h2>
-<img src="https://raw.githubusercontent.com/dinhphongne/dinhphongne/output/snake.svg" alt="Snake animation" />
-
 
 <h2 align="center">⚡ Contact with me ⚡</h2>
 <p align="left">
