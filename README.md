@@ -30,9 +30,6 @@
 - ⚡ Fun fact **I'm good at roblox!:D**
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<p align="left">
-  <a href="https://github.com/DinhPhongNe?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
 
 <br/>
 <hr/>
@@ -69,6 +66,8 @@
 
 
 ![Dinh Phong's Graph](https://github-readme-activity-graph.vercel.app/graph?username=DinhPhongNe&custom_title=Dinh%20Phong's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+[![GitHub Game of Life](https://github4life.herokuapp.com/DinhPhongNe.gif?z=6)](https://github4life.herokuapp.com/ethomson)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
