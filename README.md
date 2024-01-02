@@ -6,7 +6,6 @@
 
 <h3 align="center">a passionate frontend developer from Vietnam</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dinhphongne&label=Profile%20views&color=0e75b6&style=flat" alt="dinhphongne" /> </p>
 
 - 🔭 I'm currently a secondary school student [Le Tan Be secondary school](https://thcsletanbe.hcm.edu.vn/homegd2)
 
