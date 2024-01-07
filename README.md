@@ -19,7 +19,7 @@
 
 - My first project [AOT Wiki (JSA01 end course project )](https://github.com/DinhPhongNe/JSA01-SPCK)
 
-- My second project [Aviation Wiki (JSI01 end course project ) )](https://github.com/DinhPhongNe/JSI01-SPCK) (I delete it, will repost it next year)
+- My second project [Aviation Wiki (JSI01 end course project ) )](https://github.com/DinhPhongNe/Aviation-Wiki) (I delete it, will repost it next year)
 
 - 👨‍💻 All of my projects are available at [https://github.com/DinhPhongNe](https://github.com/DinhPhongNe)
 
