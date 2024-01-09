@@ -15,7 +15,7 @@
 
 - 🕖 I'll learn ? and ? in the future
 
--  🕖 I'm learning **C++ 
+-  🕖 I'm learning C++
 
 - My first project [AOT Wiki (JSA01 end course project )](https://github.com/DinhPhongNe/JSA01-SPCK)
 
