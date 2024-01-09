@@ -13,9 +13,9 @@
 
 - 🌱 I’m currently learning **Javascript and Python**
 
-- 🕖 I'll learn **C and C++** in the future
+- 🕖 I'll learn ? and ? in the future
 
--  🕖 I'm learning **ReactJS and NodeJS**
+-  🕖 I'm learning **C++ 
 
 - My first project [AOT Wiki (JSA01 end course project )](https://github.com/DinhPhongNe/JSA01-SPCK)
 
