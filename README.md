@@ -1,7 +1,4 @@
 
-
-<a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=DinhPhong&fontAlignY=35&fontSize=50&desc=I%27m%20the%20like%20a%20dictionary,%20I%20provide%20meaning%20to%20life,%20but%20only%20when%20asked&descSize=13&descAlignY=50&animation=fadeOut" align="center" style="width: 100%"></a>
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dinh+Phong!;" />
 </h1>
