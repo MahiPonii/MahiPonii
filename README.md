@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dinh+Phong!;" />
 </h1>
 
-<h3 align="center">a passionate frontend developer from Vietnam</h3>
+<h3 align="center">💗a bit about me💗</h3>
 
 
 - 🔭 I'm currently a secondary school student [Le Tan Be secondary school](https://thcsletanbe.hcm.edu.vn/homegd2)
