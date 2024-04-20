@@ -13,9 +13,11 @@
 - 🕖 I'll learn ? and ? in the future
 
 - My first project [AOT Wiki (JSA01 end course project )](https://github.com/DinhPhongNe/JSA01-SPCK)
+  => [Live server for AOT Wiki](https://dinhphongne.github.io/Attack-On-Titan-Wiki/AOT.html)
 
 - My second project [Aviation Wiki (JSI01 end course project ) )](https://github.com/DinhPhongNe/Aviation-Wiki)
-
+  => [Live server for Aviation Wiki](https://dinhphongne.github.io/Aviation-Wiki/homepage.html)
+  
 - My third project [Re-do calculator Casio-580 ( a full-python project ) )](https://github.com/DinhPhongNe/casio_580)
 
 - 👨‍💻 All of my projects are available at [https://github.com/DinhPhongNe](https://github.com/DinhPhongNe)
