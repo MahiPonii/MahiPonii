@@ -16,6 +16,8 @@
 
 - My second project [Aviation Wiki (JSI01 end course project ) )](https://github.com/DinhPhongNe/Aviation-Wiki)
 
+- My third project [Re-do calculator Casio-580 ( a full-python project ) )](https://github.com/DinhPhongNe/casio_580)
+
 - 👨‍💻 All of my projects are available at [https://github.com/DinhPhongNe](https://github.com/DinhPhongNe)
 
 - 🔰 You can ask me about **Javascript or Python**
