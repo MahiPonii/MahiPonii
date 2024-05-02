@@ -18,7 +18,7 @@
 - My second project [Aviation Wiki (JSI01 end course project ) )](https://github.com/DinhPhongNe/Aviation-Wiki)
   => [Live server for Aviation Wiki](https://dinhphongne.github.io/Aviation-Wiki/homepage.html)
   
-- My third project [Re-do calculator Casio-580 ( a full-python project ) )](https://github.com/DinhPhongNe/casio_580)
+- My third project [Re-do calculator Casio-580 ( a full-python project ) )](https://github.com/DinhPhongNe/casio_580) ( postponed indefinitely - reason: Lazy and find something more interesting to do )
 
 - 👨‍💻 All of my projects are available at [https://github.com/DinhPhongNe](https://github.com/DinhPhongNe)
 
