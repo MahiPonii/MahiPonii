@@ -20,6 +20,8 @@
   
 - My third project [Re-do calculator Casio-580 ( a full-python project ) )](https://github.com/DinhPhongNe/casio_580) ( postponed indefinitely - reason: Lazy and find something more interesting to do )
 
+- My fourth project [School Management System All-In-One](https://github.com/DinhPhongNe/School_Management_System_All-In-One)
+
 - 👨‍💻 All of my projects are available at [https://github.com/DinhPhongNe](https://github.com/DinhPhongNe)
 
 - 🔰 You can ask me about **Javascript or Python**
