@@ -8,9 +8,9 @@
 
 - 🔭 I'm currently a secondary school student [Le Tan Be secondary school](https://thcsletanbe.hcm.edu.vn/homegd2)
 
-- 🌱 I’m currently learning **Javascript, Python and C++**
+- 🌱 I’m currently learning **C++**
 
-- 🕖 I'll learn ? and ? in the future
+- 🕖 I'll learn C and C# in the future
 
 - My first project [AOT Wiki (JSA01 end course project )](https://github.com/DinhPhongNe/JSA01-SPCK)
   => [Live server for AOT Wiki](https://dinhphongne.github.io/Attack-On-Titan-Wiki/AOT.html)
