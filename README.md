@@ -22,7 +22,7 @@
 
 - My fourth project [MasterEdu All-In-One Learning-Management](https://github.com/DinhPhongNe/MasterEdu_All-In-One-Leaning_and_Management)
 
-- 👨‍💻 All of my projects are available at [https://github.com/DinhPhongNe](https://github.com/DinhPhongNe)
+- 👨‍💻 All of my projects are available at [https://github.com/DinhPhongNe](https://github.com/DinhPhongNe) ( delayed: due to mass amount of homework at school and some school competitions, comeback later )
 
 - 🔰 You can ask me about **Javascript or Python**
 
