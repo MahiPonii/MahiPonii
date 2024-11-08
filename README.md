@@ -22,9 +22,11 @@
 
 - My fourth project [MasterEdu All-In-One Learning-Management](https://github.com/DinhPhongNe/MasterEdu_All-In-One-Leaning_and_Management) ( delayed: due to mass amount of homework at school and some school competitions, comeback later )
 
-- My first document project [Tài liệu C++ Chinh Phục mọi kỳ thi](https://github.com/DinhPhongNe/Tai_Lieu_cpp)
+- My first document project [Tài liệu C++ Chinh phục mọi kỳ thi](https://github.com/DinhPhongNe/Tai_Lieu_cpp)
 
-- 👨‍💻 All of my projects are available at [https://github.com/DinhPhongNe](https://github.com/DinhPhongNe)
+- My second document project [Tài liệu Python Chinh phục mọi kỳ thi](https://github.com/DinhPhongNe/Tai_Lieu_Python) (Dự kiến hoàng thành: 01/01/2025)
+
+- 👨‍💻 All of my projects are available at [DinhPhongNe](https://github.com/DinhPhongNe)
 
 - 🔰 You can ask me about **Javascript or Python**
 
