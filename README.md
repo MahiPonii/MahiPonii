@@ -8,15 +8,15 @@
 - 🔭 I'm currently a secondary school student
 
 ### 🔝 My projects
-| STT | Project's name                                               | Github Link                                                              | Genre       | Live server       
-|-----|--------------------------------------------------------------|--------------------------------------------------------------------------|-------------|---------------------------------------------------------------------------|
-| 1   | Attack On Titan Wiki                                         | [Here](https://github.com/DinhPhongNe/JSA01-SPCK)                        | Website     | [Live Server](https://dinhphongne.github.io/Attack-On-Titan-Wiki/AOT.html)|
-| 2   | Aviation Wiki                                                | [Here](https://github.com/DinhPhongNe/Aviation-Wiki)                  | Website     | [Live Server](https://dinhphongne.github.io/Aviation-Wiki/homepage.html)  |
-| 4   | MasterEdu All-In-One-Leaning_and_Management                  | [Here](https://github.com/DinhPhongNe/MasterEdu_All-In-One-Leaning_and_Management) | Application | None                                                         |
-| 4   | Tài liệu C++ Chinh phục mọi kỳ thi                           | [Here](https://github.com/DinhPhongNe/Tai_Lieu_cpp) | Document | None                                                                         |
-| 5   | Tài liệu Python Chinh phục mọi kỳ thi                        | [Here](https://github.com/DinhPhongNe/Tai_Lieu_Python) | Document | None                                                                         |
-| 6   | C++ Document Master Every Competition                        | [Here](https://github.com/DinhPhongNe/CppDoc_Master-Every-Competition)       | Document | None                                                                         |
-| 7   | Python Document Master Every Competition                     | [Here](https://github.com/DinhPhongNe/PythonDoc-Master-Every-Competition)       | Document | None                                                                         |
+| STT | Project's name                                               | Github Link                                                              | Genre       | Live server                                                               | Status
+|-----|--------------------------------------------------------------|--------------------------------------------------------------------------|-------------|---------------------------------------------------------------------------|-----------------------|
+| 1   | Attack On Titan Wiki                                         | [Here](https://github.com/DinhPhongNe/JSA01-SPCK)                        | Website     | [Live Server](https://dinhphongne.github.io/Attack-On-Titan-Wiki/AOT.html)| Finished              |
+| 2   | Aviation Wiki                                                | [Here](https://github.com/DinhPhongNe/Aviation-Wiki)                  | Website     | [Live Server](https://dinhphongne.github.io/Aviation-Wiki/homepage.html)  | Finished              |
+| 4   | MasterEdu All-In-One-Leaning_and_Management                  | [Here](https://github.com/DinhPhongNe/MasterEdu_All-In-One-Leaning_and_Management) | Application | None                                                         | Finished              |
+| 4   | Tài liệu C++ Chinh phục mọi kỳ thi                           | [Here](https://github.com/DinhPhongNe/Tai_Lieu_cpp) | Document | None                                                                         | On Working                           |
+| 5   | Tài liệu Python Chinh phục mọi kỳ thi                        | [Here](https://github.com/DinhPhongNe/Tai_Lieu_Python) | Document | None                                                                         | On Working                        |
+| 6   | C++ Document Master Every Competition                        | [Here](https://github.com/DinhPhongNe/CppDoc_Master-Every-Competition)       | Document | None                                                                         | Pending     |
+| 7   | Python Document Master Every Competition                     | [Here](https://github.com/DinhPhongNe/PythonDoc-Master-Every-Competition)       | Document | None                                                                         | Pending  |
 
 ### ⚒ Skills
 🎆 **Front End** / 🎇 **Backend**
