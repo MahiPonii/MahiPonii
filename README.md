@@ -12,11 +12,12 @@
 |-----|--------------------------------------------------------------|--------------------------------------------------------------------------|-------------|---------------------------------------------------------------------------|-----------------------|
 | 1   | Attack On Titan Wiki                                         | [Here](https://github.com/DinhPhongNe/JSA01-SPCK)                        | Website     | [Live Server](https://dinhphongne.github.io/Attack-On-Titan-Wiki/AOT.html)| Finished              |
 | 2   | Aviation Wiki                                                | [Here](https://github.com/DinhPhongNe/Aviation-Wiki)                  | Website     | [Live Server](https://dinhphongne.github.io/Aviation-Wiki/homepage.html)  | Finished              |
-| 4   | MasterEdu All-In-One-Leaning_and_Management                  | [Here](https://github.com/DinhPhongNe/MasterEdu_All-In-One-Leaning_and_Management) | Application | None                                                         | On Working         |
-| 4   | Tài liệu C++ Chinh phục mọi kỳ thi                           | [Here](https://github.com/DinhPhongNe/Tai_Lieu_cpp) | Document | None                                                                         | On Working                           |
-| 5   | Tài liệu Python Chinh phục mọi kỳ thi                        | [Here](https://github.com/DinhPhongNe/Tai_Lieu_Python) | Document | None                                                                         | On Working                        |
+| 4   | MasterEdu All-In-One-Leaning_and_Management                  | [Here](https://github.com/DinhPhongNe/MasterEdu_All-In-One-Leaning_and_Management) | Application | None                                                         | On Working - 01/01/2025 |
+| 4   | Tài liệu C++ Chinh phục mọi kỳ thi                           | [Here](https://github.com/DinhPhongNe/Tai_Lieu_cpp) | Document | None                                                                         | On Working - 31/01/2025     |
+| 5   | Tài liệu Python Chinh phục mọi kỳ thi                        | [Here](https://github.com/DinhPhongNe/Tai_Lieu_Python) | Document | None                                                                         | On Working - 31/01/2025            |
 | 6   | C++ Document Master Every Competition                        | [Here](https://github.com/DinhPhongNe/CppDoc_Master-Every-Competition)       | Document | None                                                                         | Pending     |
 | 7   | Python Document Master Every Competition                     | [Here](https://github.com/DinhPhongNe/PythonDoc-Master-Every-Competition)       | Document | None                                                                         | Pending  |
+| 8   | HopeEdu - Learning website for autistic kid                  | [Here](https://github.com/DinhPhongNe/HopeEdu-for-AutisticKids)                 | Website  | Soon                                                 | On working - - ~14/11/2024 |
 
 ### ⚒ Skills
 🎆 **Front End** / 🎇 **Backend**
