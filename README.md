@@ -17,7 +17,7 @@
 | 5   | Tài liệu Python Chinh phục mọi kỳ thi                        | [Here](https://github.com/DinhPhongNe/Tai_Lieu_Python) | Document | None                                                                         | On Working - 31/01/2025            |
 | 6   | C++ Document Master Every Competition                        | [Here](https://github.com/DinhPhongNe/CppDoc_Master-Every-Competition)       | Document | None                                                                         | Pending     |
 | 7   | Python Document Master Every Competition                     | [Here](https://github.com/DinhPhongNe/PythonDoc-Master-Every-Competition)       | Document | None                                                                         | Pending  |
-| 8   | HopeEdu - Learning website for autistic kid                  | [Here](https://github.com/DinhPhongNe/HopeEdu-for-AutisticKids)                 | Website  | Soon                                                 | On working - ~14/11/2024 |
+| 8   | HopeEdu - Learning website for autistic kid                  | [Here](https://github.com/DinhPhongNe/HopeEdu-for-AutisticKids)                 | Website  | Soon                                                 | On working - ~14/12/2024 |
 
 ### ⚒ Skills
 🎆 **Front End** / 🎇 **Backend**
