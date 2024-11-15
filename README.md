@@ -20,7 +20,7 @@
 | 8   | HopeEdu - Learning website for autistic kid                  | [Here](https://github.com/DinhPhongNe/HopeEdu-for-AutisticKids)                 | Website  | Soon                                                 | On working - ~14/12/2024 |
 
 ### ⚒ Skills
-🎆 **Front End** / 🎇 **Backend**
+🎆 **Front End** / 🎇 **Backend** / 🌌 **Application Developer** / 🎇 **Website Developer** / 🎆 **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [DinhPhongNe](https://github.com/DinhPhongNe)
 
