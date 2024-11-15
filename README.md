@@ -24,6 +24,10 @@
 
 - 👨‍💻 All of my projects are available at [DinhPhongNe](https://github.com/DinhPhongNe)
 
+- 🤷‍♀️ My leetcode [profile](https://leetcode.com/u/dinpon_progZ/)
+
+- 🤷‍♀️ My HackerRank [profile](https://www.hackerrank.com/profile/DinhPhongg)
+
 - ⚡ Fun fact **I like Oyama Mahiro..**
 
 <img src="/assets/images/horizontal-divider-gradient.gif">
