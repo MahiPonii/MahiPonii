@@ -15,7 +15,7 @@
 | 4   | MasterEdu All-In-One-Leaning_and_Management                  | [Here](https://github.com/DinhPhongNe/MasterEdu_All-In-One-Leaning_and_Management) | Application | None                                                         | On Working |
 | 4   | Tài liệu C++ Chinh phục mọi kỳ thi                           | [Here](https://github.com/DinhPhongNe/Tai_Lieu_cpp) | Document | None                                                                         | Finished     |
 | 5   | Tài liệu Python Chinh phục mọi kỳ thi                        | [Here](https://github.com/DinhPhongNe/Tai_Lieu_Python) | Document | None                                                                         | On Working - 31/01/2025            |
-| 6   | C++ Document Master Every Competition                        | [Here](https://github.com/DinhPhongNe/CppDoc_Master-Every-Competition)       | Document | None                                                                         | Pending     |
+| 6   | C++ Document Master Every Competition                        | [Here](https://github.com/DinhPhongNe/MERN-EBank-Project)       | Website | soon                                                                         | 01/01/2025     |
 | 7   | Python Document Master Every Competition                     | [Here](https://github.com/DinhPhongNe/PythonDoc-Master-Every-Competition)       | Document | None                                                                         | Pending  |
 
 ### ⚒ Skills
