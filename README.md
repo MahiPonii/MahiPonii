@@ -16,7 +16,7 @@
 | 4   | Tài liệu C++ Chinh phục mọi kỳ thi                           | [Here](https://github.com/DinhPhongNe/Tai_Lieu_cpp) | Document | None                                                                         | Finished     |
 | 5   | Tài liệu Python Chinh phục mọi kỳ thi                        | [Here](https://github.com/DinhPhongNe/Tai_Lieu_Python) | Document | None                                                                         | On Working - 31/01/2025            |
 | 6   | E-Banking                        | [Here](https://github.com/DinhPhongNe/MERN-EBank-Project)       | Website | soon                                                                         | On working - 01/01/2025     |
-| 7   | Python Document Master Every Competition                     | [Here](https://github.com/DinhPhongNe/PythonDoc-Master-Every-Competition)       | Document | None                                                                         | Pending  |
+| 7   | ViET - Vietnam E-Learning Tutoring Platform                     | [Here](https://github.com/DinhPhongNe/ViET-Plaitform)       | Website | Soon                                                                         | On Working - 14/12/2024  |
 
 ### ⚒ Skills
 🎆 **Front End** / 🎇 **Backend** / 🌌 **Application Developer** / 🤖 **Machine Learning**
