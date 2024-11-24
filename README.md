@@ -27,8 +27,6 @@
 
 - 🤷‍♀️ My HackerRank [profile](https://www.hackerrank.com/profile/DinhPhongg)
 
-- ⚡ Fun fact **I like Oyama Mahiro..**
-
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
 [![DinhPhongNe's GitHub | Stats](https://stats.quira.sh/DinhPhongNe/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=DinhPhongNe)
