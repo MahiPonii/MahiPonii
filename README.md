@@ -17,7 +17,7 @@
 | 5   | Tài liệu Python Chinh phục mọi kỳ thi                        | [Here](https://github.com/DinhPhongNe/Tai_Lieu_Python) | Document | None                                                                         | On Working - 31/01/2025            |
 | 6   | E-Banking                        | [Here](https://github.com/DinhPhongNe/MERN-EBank-Project)       | Website | soon                                                                         | On working - ~28/02/2025     |
 | 7   | ViET - Vietnam E-Learning Tutoring Platform                     | [Here](https://github.com/DinhPhongNe/ViET-Plaitform)       | Website | Soon                                                                         | Finished  |
-| 8   | Dynamic Range Bucket Sort ( Small project )                     | [Here](https://github.com/DinhPhongNe/DynamicRangeBucketSort)      | Algorithm | None                                                                         | Update 'till the end of the world  |
+| 8   | Hyperion Sort                                                   | [Here](https://github.com/DinhPhongNe/Hyperion_Sort)      | Algorithm | None                                                                         | Update 'till the end of the world  |
 
 ### ⚒ Skills
 🎆 **Front End** / 🎇 **Backend** / 🌌 **Application Developer** / 🤖 **Machine Learning**
