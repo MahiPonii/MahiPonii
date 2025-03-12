@@ -15,9 +15,8 @@
 | 4   | MasterEdu All In One Leaning and Management                  | [Here](https://github.com/DinhPhongNe/MasterEdu_All-In-One-Leaning_and_Management) | Application | None                                                         | Delayed |
 | 4   | Tài liệu C++ Chinh phục mọi kỳ thi                           | [Here](https://github.com/DinhPhongNe/Tai_Lieu_cpp) | Document | None                                                                         | Finished     |
 | 5   | Tài liệu Python Chinh phục mọi kỳ thi                        | [Here](https://github.com/DinhPhongNe/Tai_Lieu_Python) | Document | None                                                                         | On Working ~ 30/04/2025            |
-| 6   | E-Banking                        | [Here](https://github.com/DinhPhongNe/MERN-EBank-Project)       | Website | soon                                                                         | On working - ~28/02/2025     |
-| 7   | ViET - Vietnam E-Learning Tutoring Platform                     | [Here](https://github.com/DinhPhongNe/ViET-Plaitform)       | Website | Soon                                                                         | Finished  |
-| 8   | Hyperion Sort                                                   | [Here](https://github.com/DinhPhongNe/Hyperion_Sort)      | Algorithm | None                                                                         | Update 'till the end of the world  |
+| 6   | ViET - Vietnam E-Learning Tutoring Platform                     | [Here](https://github.com/DinhPhongNe/ViET-Plaitform)       | Website | Soon                                                                         | Finished  |
+| 7   | Hyperion Sort                                                   | [Here](https://github.com/DinhPhongNe/Hyperion_Sort)      | Algorithm | None                                                                         | Update 'till the end of the world  |
 
 ### ⚒ Skills
 🎆 **Front End** / 🎇 **Backend** / 🌌 **Application Developer** / 🤖 **Machine Learning**
