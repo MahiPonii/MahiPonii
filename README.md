@@ -10,7 +10,7 @@
 ### 🔝 My projects
 | STT | Project's name                                               | Github Link                                                              | Genre       | Live server                                                               | Status
 |-----|--------------------------------------------------------------|--------------------------------------------------------------------------|-------------|---------------------------------------------------------------------------|-----------------------|
-| 1   | Attack On Titan Wiki                                         | [Here](https://github.com/DinhPhongNe/JSA01-SPCK)                        | Website     | [Live Server](https://dinhphongne.github.io/Attack-On-Titan-Wiki/AOT.html)| Finished              |
+| 1   | Attack On Titan Wiki                                         | [Here](https://github.com/DinhPhongNe/JSA01-SPCK)                        | Website     | Unpublished | Finished              |
 | 2   | Aviation Wiki                                                | [Here](https://github.com/DinhPhongNe/Aviation-Wiki)                  | Website     | [Live Server](https://dinhphongne.github.io/Aviation-Wiki/homepage.html)  | Finished              |
 | 4   | MasterEdu All In One Leaning and Management                  | [Here](https://github.com/DinhPhongNe/MasterEdu_All-In-One-Leaning_and_Management) | Application | None                                                         | Delayed |
 | 4   | Tài liệu C++ Chinh phục mọi kỳ thi                           | [Here](https://github.com/DinhPhongNe/Tai_Lieu_cpp) | Document | None                                                                         | Finished     |
